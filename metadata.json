@@ -1,0 +1,5 @@
+{
+  "name": "Remix:  Outbreak Alert SL",
+  "description": "A real-time disease surveillance system for Sierra Leone, facilitating early detection of outbreaks like Ebola, cholera, and Lassa fever through community and health worker reporting.",
+  "requestFramePermissions": []
+}
